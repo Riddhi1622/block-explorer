@@ -1,16 +1,27 @@
-# React + Vite
+# Solana Devnet Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal project for exploring Solana accounts, transactions, and balances on the **Devnet**.  
+Built as a developer-focused tool to visualize blockchain data and experiment with Solana in a safe test environment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Highlights
 
-## React Compiler
+- Inspect Solana Devnet accounts and SOL balances  
+- View token holdings and transaction history  
+- Clean, minimal UI for easy navigation  
+- Built for **learning and experimentation**—not for production  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Solana Web3.js** – Blockchain interactions  
+- **React.js** – Frontend interface  
+- **Tailwind CSS** – Styling  
+- **@solana/wallet-adapter** – Optional wallet integration  
+- **Vite** – Development environment  
+
+---
+
+> ⚠️ This project is for personal development and educational purposes only. It is not intended for public use or deployment.
