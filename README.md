@@ -14,8 +14,19 @@ Built as a developer-focused tool to visualize blockchain data and experiment wi
 
 ---
 
-## Images
+### Screenshots
 
+**Home Screen**  
+![Home Screen](src/assets/home.png)
+
+**Wallet Choice**  
+![Wallet Choice](src/assets/wallet-choice.png)
+
+**Wallet Connected**  
+![Wallet Connected](src/assets/wallet-connected.png)
+
+**Output Screen**  
+![Output](src/assets/output.png)
 
 
 
